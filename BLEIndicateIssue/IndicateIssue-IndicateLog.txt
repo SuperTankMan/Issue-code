@@ -1,0 +1,143 @@
+ets Jun  8 2016 00:22:57
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:1324
+ho 0 tail 12 room 4
+load:0x40078000,len:13508
+load:0x40080400,len:3604
+entry 0x400805f0
+Starting Arduino BLE Client application...
+BLE Advertised Device found: Name: Indicate issue Server, Address: ec:94:cb:68:eb:a2, serviceUUID: 4fafc201-1fb5-459e-8fcc-c5c9c331914b, txPower: 3
+In loop......
+Forming a connection to ec:94:cb:68:eb:a2
+ - Created client
+ - Connected to server
+ - Found our service
+ - Found our characteristic
+The characteristic value was: 
+We are now connected to the BLE Server.
+Setting new characteristic value to "Time since boot: 1"
+Sending after  =1438
+2472:Notify callback for characteristic beb5483e-36e1-4688-b7f5-ea07361b26a8 of data length 4
+data: 1
+This took =1034
+In loop......
+Setting new characteristic value to "Time since boot: 3"
+Sending after  =1467
+4976:Notify callback for characteristic beb5483e-36e1-4688-b7f5-ea07361b26a8 of data length 4
+data: 2
+This took =1038
+In loop......
+Setting new characteristic value to "Time since boot: 6"
+Sending after  =1463
+7451:Notify callback for characteristic beb5483e-36e1-4688-b7f5-ea07361b26a8 of data length 4
+data: 3
+This took =1012
+In loop......
+Setting new characteristic value to "Time since boot: 8"
+Sending after  =1490
+9957:Notify callback for characteristic beb5483e-36e1-4688-b7f5-ea07361b26a8 of data length 4
+data: 4
+This took =1015
+In loop......
+Setting new characteristic value to "Time since boot: 11"
+Sending after  =1486
+12477:Notify callback for characteristic beb5483e-36e1-4688-b7f5-ea07361b26a8 of data length 4
+data: 5
+This took =1034
+In loop......
+Setting new characteristic value to "Time since boot: 13"
+Sending after  =1467
+14982:Notify callback for characteristic beb5483e-36e1-4688-b7f5-ea07361b26a8 of data length 4
+data: 6
+This took =1038
+In loop......
+Setting new characteristic value to "Time since boot: 16"
+Sending after  =1464
+17472:Notify callback for characteristic beb5483e-36e1-4688-b7f5-ea07361b26a8 of data length 4
+data: 7
+This took =1026
+In loop......
+Setting new characteristic value to "Time since boot: 18"
+Sending after  =1474
+19977:Notify callback for characteristic beb5483e-36e1-4688-b7f5-ea07361b26a8 of data length 4
+data: 8
+This took =1031
+In loop......
+Setting new characteristic value to "Time since boot: 21"
+Sending after  =1470
+22467:Notify callback for characteristic beb5483e-36e1-4688-b7f5-ea07361b26a8 of data length 4
+data: 9
+This took =1020
+In loop......
+Setting new characteristic value to "Time since boot: 23"
+Sending after  =1481
+24988:Notify callback for characteristic beb5483e-36e1-4688-b7f5-ea07361b26a8 of data length 4
+data: 10
+This took =1039
+In loop......
+Setting new characteristic value to "Time since boot: 26"
+Sending after  =1463
+27479:Notify callback for characteristic beb5483e-36e1-4688-b7f5-ea07361b26a8 of data length 4
+data: 11
+This took =1027
+In loop......
+Setting new characteristic value to "Time since boot: 28"
+Sending after  =1475
+29968:Notify callback for characteristic beb5483e-36e1-4688-b7f5-ea07361b26a8 of data length 4
+data: 12
+This took =1015
+In loop......
+Setting new characteristic value to "Time since boot: 31"
+Sending after  =1486
+32473:Notify callback for characteristic beb5483e-36e1-4688-b7f5-ea07361b26a8 of data length 4
+data: 13
+This took =1019
+In loop......
+Setting new characteristic value to "Time since boot: 33"
+Sending after  =1481
+34993:Notify callback for characteristic beb5483e-36e1-4688-b7f5-ea07361b26a8 of data length 4
+data: 14
+This took =1039
+In loop......
+Setting new characteristic value to "Time since boot: 36"
+Sending after  =1463
+37483:Notify callback for characteristic beb5483e-36e1-4688-b7f5-ea07361b26a8 of data length 4
+data: 15
+This took =1027
+In loop......
+Setting new characteristic value to "Time since boot: 38"
+Sending after  =1475
+39974:Notify callback for characteristic beb5483e-36e1-4688-b7f5-ea07361b26a8 of data length 4
+data: 16
+This took =1015
+In loop......
+Setting new characteristic value to "Time since boot: 41"
+Sending after  =1486
+42479:Notify callback for characteristic beb5483e-36e1-4688-b7f5-ea07361b26a8 of data length 4
+data: 17
+This took =1019
+In loop......
+Setting new characteristic value to "Time since boot: 43"
+Sending after  =1482
+44999:Notify callback for characteristic beb5483e-36e1-4688-b7f5-ea07361b26a8 of data length 4
+data: 18
+This took =1038
+In loop......
+Setting new characteristic value to "Time since boot: 46"
+Sending after  =1464
+47489:Notify callback for characteristic beb5483e-36e1-4688-b7f5-ea07361b26a8 of data length 4
+data: 19
+This took =1026
+In loop......
+Setting new characteristic value to "Time since boot: 48"
+Sending after  =1474
+49994:Notify callback for characteristic beb5483e-36e1-4688-b7f5-ea07361b26a8 of data length 4
+data: 20
+This took =1031
+In loop......
+Setting new characteristic value to "Time since boot: 51"
+Sending after  =1470
